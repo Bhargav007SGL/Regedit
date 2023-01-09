@@ -1,0 +1,23 @@
+{
+  "name": "regedit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bhargav007SGL/Regedit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bhargav007SGL/Regedit/issues"
+  },
+  "homepage": "https://github.com/Bhargav007SGL/Regedit#readme",
+  "dependencies": {
+    "regedit": "^5.1.1"
+  }
+}
